@@ -37,3 +37,30 @@ Fixed spacing issues above GIFs, created additional grammar pages from previous 
 
 Restored previous pattern versions using the 2 sentences on the 6 latest lessons. testing and implementing new video patterns, adjusting new pattern layouts to accommodate video content, and applied CSS adjustments to enhance video layouts. I looked into CSS solutions for the video pattern but that route should go through JS. Submitted ticket to WordPress on the limitations with video pattern overrides. There is a possibility to reuse video patterns like we did with the exercise, however code blocks are not overridden as well. There are no plugins to change this. JS on all videopres instances seems to be a viable solution. Still testing to make sure all updates with the JS were implemented fine and still maintained optimal site performance.
 
+
+# October
+
+### [x] Week 1
+> Oct 6
+
+Set up the initial cover page by using the provided logo and cover images into WP. Configured the navigation bar and organized existing test pages into an old folder for better structure. Performed initial WordPress setup, theme configuration, basic customization with Prof's requirements.
+
+### [x] Week 2
+> Oct 7 // 8
+
+Restrictions with the 'editor' role preventing full site modifications and  the need for admin access. Vreated the cover page and moved previous test pages to the designated folder. Added social media links to the footer and consulted with Prof. Bose regarding that.
+
+### [x] Week 3
+> Oct 9 // 14
+
+Created an overview page for the grammar lessons under the Grammar tab. Created the Fingerspelling lesson page with placeholder GIFs and proper linking. Talked with Prof. Bose to separate specific lessons into individual pages for better organization.
+
+### [x] Week 4
+> Oct 15 // 21
+
+Enhanced the multiple choice question functionality by using CSS and HTML solutions to display correct and incorrect responses dynamically. Updated existing grammar lesson pages based on feedback, alignment adjustments and content restructuring. Created grammar lesson pages (lessons 2-5), consistency across all pages using same design. Conducted testing of new features and resolved the issues with the mcq. 
+
+### [x] Week 5
+> Oct 22 // 31
+
+Finalized the exercise pages by adding border color changes for correct/incorrect answers. Created the custom radio buttons that were too small. Created new design patterns which is uniform across grammar lessons. Alphabet page with varying GIF layouts to consider for different display preferences. 
