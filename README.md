@@ -4,6 +4,7 @@ ASLology code and work log
 #November
 ### [x] week 1
 > nov 3
+
 Aligned the existing content with the new design, implemented layout adjustments on vocabulary arrangement to make sure there is consistency across all pages. Plugin updates for WP security and removed the depreciated plugins. 
 
 
