@@ -1,5 +1,5 @@
-# WebDevASLology
-ASLology code and work log
+# WebDevCodeLog
+Code and change log
 
 Logs are below, starting from most recent month
 
@@ -26,7 +26,7 @@ Aligned the existing content with the new design, implemented layout adjustments
 ### [x] week 2
 > nov 5 // 11
 
-Created and tested the 6 WordPress patterns to create styling easier in future using Prof. Bose design. Updated question structure page based on the design provided, which involved layout recreations and adjustments to headings, title bars, vocabulary sign arrangements. DB optimization to improve site performance especially when multiple gifs are loading in. The issue still persists especially on the phone and compression would make the gifs not pretty, so there needs to be another way.
+Created and tested the 6 WordPress patterns to create styling easier in future using Prof. B design. Updated question structure page based on the design provided, which involved layout recreations and adjustments to headings, title bars, vocabulary sign arrangements. DB optimization to improve site performance especially when multiple gifs are loading in. The issue still persists especially on the phone and compression would make the gifs not pretty, so there needs to be another way.
 **[x] TODO: Fix load GIFs**
 
 ### [x] week 3
@@ -55,12 +55,12 @@ Set up the initial cover page by using the provided logo and cover images into W
 ### [x] Week 2
 > Oct 7 // 8
 
-Restrictions with the 'editor' role preventing full site modifications and  the need for admin access. Vreated the cover page and moved previous test pages to the designated folder. Added social media links to the footer and consulted with Prof. Bose regarding that.
+Restrictions with the 'editor' role preventing full site modifications and  the need for admin access. Vreated the cover page and moved previous test pages to the designated folder. Added social media links to the footer and consulted with Prof. B regarding that.
 
 ### [x] Week 3
 > Oct 9 // 14
 
-Created an overview page for the grammar lessons under the Grammar tab. Created the Fingerspelling lesson page with placeholder GIFs and proper linking. Talked with Prof. Bose to separate specific lessons into individual pages for better organization.
+Created an overview page for the grammar lessons under the Grammar tab. Created the Fingerspelling lesson page with placeholder GIFs and proper linking. Talked with Prof. B to separate specific lessons into individual pages for better organization.
 
 ### [x] Week 4
 > Oct 15 // 21
