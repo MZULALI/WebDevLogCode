@@ -7,6 +7,13 @@ Code is in files
 
 Last Updated 'Dec 3 24'
 
+# December
+
+### [] week 1
+### [] week 2
+### [] week 3
+### [] week 4
+
 
 
 # November
