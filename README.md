@@ -1,7 +1,10 @@
 # WebDevASLology
 ASLology code and work log
+
 Logs are below, starting from most recent month
+
 Code is in files
+
 Last Updated 'Dec 3 24'
 
 
