@@ -3,8 +3,9 @@ ASLology code and work log
 
 #November
 ### [x] week 1
-Aligned the existing content with the new design, implemented layout adjustments on vocabulary arrangement to make sure there is consistency across all pages. Plugin updates for WP security and removed the depreciated plugins. 
 > nov 3
+Aligned the existing content with the new design, implemented layout adjustments on vocabulary arrangement to make sure there is consistency across all pages. Plugin updates for WP security and removed the depreciated plugins. 
+
 
 ### [x] week 2
 Created and tested the 6 WordPress patterns to create styling easier in future using Prof. Bose design. Updated question structure page based on the design provided, which involved layout recreations and adjustments to headings, title bars, vocabulary sign arrangements. DB optimization to improve site performance especially when multiple gifs are loading in. The issue still persists especially on the phone and compression would make the gifs not pretty, so there needs to be another way.
